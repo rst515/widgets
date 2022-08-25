@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/wigets/static/js/main.d5dc325d.js",
-    "index.html": "/wigets/index.html",
-    "main.d5dc325d.js.map": "/wigets/static/js/main.d5dc325d.js.map"
+    "main.js": "/widgets/static/js/main.d5dc325d.js",
+    "index.html": "/widgets/index.html",
+    "main.d5dc325d.js.map": "/widgets/static/js/main.d5dc325d.js.map"
   },
   "entrypoints": [
     "static/js/main.d5dc325d.js"
