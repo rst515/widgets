@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/wigets/static/js/main.d5dc325d.js",
+    "index.html": "/wigets/index.html",
+    "main.d5dc325d.js.map": "/wigets/static/js/main.d5dc325d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d5dc325d.js"
+  ]
+}
